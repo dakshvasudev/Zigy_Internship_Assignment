@@ -1,6 +1,7 @@
 # zigy_internship_assign
 
-A new Flutter project.
+A new Flutter project.![Screenshot_20230111_182140](https://user-images.githubusercontent.com/91746245/211811116-a1f8bd5e-7ddd-4878-9b98-eb77283a2f3a.jpg)
+
 
 ## Getting Started
 
